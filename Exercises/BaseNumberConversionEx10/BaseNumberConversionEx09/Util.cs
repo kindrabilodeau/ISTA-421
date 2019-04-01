@@ -6,6 +6,11 @@ using System.Threading.Tasks;
 
 namespace BaseNumberConversionEx10
 {
+    //Reflection:After writing this and looking back. If I had 
+    //Had my methods return values I could have 
+    //1.Called methods in other methods
+    //2.My code would have looked much cleaner and had the writelines
+    //only in the program class
     class Util
     {
         //Converts a decimal number to binary 
